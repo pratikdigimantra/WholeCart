@@ -11,8 +11,6 @@ Bug report : https://digimantra-my.sharepoint.com/:x:/p/pratik_kumar/IQA5MsDrQiM
 
 Test plan : https://digimantra-my.sharepoint.com/:w:/p/pratik_kumar/IQAF75hU3iv5SpGi-aNtdetZAUvr_z4QSaT2sPwPlQMDTco?e=h2ALkU
 
-Test Cases : https://digimantra-my.sharepoint.com/:x:/p/pratik_kumar/IQBe1Ucd-XCeQJaOCpQ23z0PAW8YXsVGB1g-Jw2sLrWYG08?e=hifhnA
-
 Load test : https://resplendent-centaur-ea6d15.netlify.app/
 
 
